@@ -7,7 +7,7 @@ SENSOR_PIN = 4
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(SENSOR_PIN, GPIO.IN)
 
-CHECK_TIMES = ["03:11", "03:12", "03:13", "03:14"]
+CHECK_TIMES = ["06:00", "09:00", "12:00", "15:00"]
 
 PLANT_NAME = "666"
 
